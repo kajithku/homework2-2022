@@ -92,6 +92,7 @@ footer{
 span{
     text-decoration: underline;
    text-transform: uppercase; 
+   text-shadow: none;
 }
 
 footer p{
